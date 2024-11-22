@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vedant Bhavsar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Software engineer from India</h3>
 
-- 🔭 I’m currently working on [RSVP](rsvp-peach.vercel.app)
+- 🔭 I’m currently working as Software engineer at [LogicubeIT](https://logicubeit.com/)
 
 - 🌱 I’m currently learning **DevOps**
 
@@ -11,9 +11,6 @@
 
 - 📫 How to reach me **vedantbhavsar67@gmail.com**
 
-- 📄 Know about my experiences [https://exlaso.in/resume](https://exlaso.in/resume)
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
